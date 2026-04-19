@@ -54,7 +54,3 @@ The project showcases proficiency in resolving the "division by zero" error usin
 2. Import the `covidDeaths` and `covidVAccinatio` datasets into your database.
 3. Run the scripts in `Coviod_project1.sql` sequentially to explore the data and generate the final views.
 
----
-
-## 💡 Future Scope
-The outputs generated from these SQL scripts are structured to be easily integrated into a data visualization tool like **Tableau** or **Power BI** to create an interactive COVID-19 Dashboard.
